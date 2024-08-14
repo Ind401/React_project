@@ -1,0 +1,21 @@
+.login-container{
+    margin-left: 400px;
+    padding: 20px;
+    width: 300px;
+    text-align: center;
+    gap: 40px;
+}
+#button{
+
+  color: rgb(14, 4, 4);
+  padding: 10px 20px;
+  border-radius: 3px;
+  cursor: pointer;
+}
+#output{
+    width: 600px; 
+  height: 40px; 
+  padding: 10px; 
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
